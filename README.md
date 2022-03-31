@@ -1,2 +1,2 @@
 # Python-Utilities
-Built-in functions to handles typical problems in Python3
+Built-in functions to handle typical problems in Python 3.
